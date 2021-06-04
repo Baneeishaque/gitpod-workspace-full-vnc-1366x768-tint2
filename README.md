@@ -12,6 +12,9 @@
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Baneeishaque/gitpod-workspace-full-vnc-1366x768-tint2)
 
-## Tint 2 : 16.7
+### Base Image : [baneeishaque/gitpod-workspace-full-vnc-1366x768](https://hub.docker.com/repository/docker/baneeishaque/gitpod-workspace-full-vnc-1366x768)  
+
+## Additional Tools
+### &nbsp;&nbsp; - Tint 2 : 16.7
 
 [//]: # "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/gitpod-workspace-full-vnc-1366x768-tint2)"
